@@ -15,3 +15,7 @@ Blockly](https://developers.google.com/blockly/registration). The questionnaire 
 a few minutes and will help us better support the Blockly community.
 
 Want to contribute? Great! First, read [our guidelines for contributors](https://developers.google.com/blockly/guides/modify/contributing).
+
+额外说明：我自己也搭建了一个，客供大家学习参考
+http://www.pintuqu.com
+中文记住：拼图去
